@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in RequestViewController.getLyftPrice():RequestViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RequestViewController.getUberPrice():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.priceLyft">
+            </PersistentString>
+            <PersistentString
+               value = "self.priceUber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SignUpViewController.viewDidLoad() -&gt; ():SignUpViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "picker">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectFavouriteVC.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():SelectFavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationEnd">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EditFavouriteVC.viewController(GMSAutocompleteViewController, didAutocompleteWith : GMSPlace) -&gt; ():EditFavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.collectionView(UICollectionView, cellForItemAt : IndexPath) -&gt; UICollectionViewCell:RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isCabSelectedList">
+            </PersistentString>
+            <PersistentString
+               value = "cell.isCabSelected">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewConroller.syncFavoriteLocations():LoginViewConroller.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteLocations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "placesClient">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RequestViewController.getLyftPrice():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.priceLyft">
+            </PersistentString>
+            <PersistentString
+               value = " self.priceUber">
+            </PersistentString>
+            <PersistentString
+               value = "cost">
+            </PersistentString>
+            <PersistentString
+               value = "result.error">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SignUpViewController.(btnSignupClicked(Any) -&gt; ()).(closure #1):SignUpViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.debugDescription">
+            </PersistentString>
+            <PersistentString
+               value = "error?.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.viewController(GMSAutocompleteViewController, didAutocompleteWith : GMSPlace) -&gt; ():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.coordinate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.viewDidAppear(Bool) -&gt; ():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationEnd">
+            </PersistentString>
+            <PersistentString
+               value = "locationStart">
+            </PersistentString>
+            <PersistentString
+               value = "locationStart.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.getCurrentLocation():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+            <PersistentString
+               value = "locationStart.coordinate.longitude">
+            </PersistentString>
+            <PersistentString
+               value = "locationEnd.coordinate.longitude">
+            </PersistentString>
+            <PersistentString
+               value = "self.current_lat">
+            </PersistentString>
+            <PersistentString
+               value = "locationEnd.coordinate.latitude">
+            </PersistentString>
+            <PersistentString
+               value = "self.current_lng">
+            </PersistentString>
+            <PersistentString
+               value = "locationStart.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.(drawPath(startLocation : CLLocation, endLocation : CLLocation) -&gt; ()).(closure #1):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationEnd">
+            </PersistentString>
+            <PersistentString
+               value = "startLocation">
+            </PersistentString>
+            <PersistentString
+               value = "endLocation">
+            </PersistentString>
+            <PersistentString
+               value = "locationStart">
+            </PersistentString>
+            <PersistentString
+               value = "origin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.collectionView(_:cellForItemAt:):RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.findBestCabs():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "services">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.(getFavouriteLocations() -&gt; ()).(closure #1):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favouriteLocations">
+            </PersistentString>
+            <PersistentString
+               value = "child.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StartViewController.viewDidLoad():StartViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appuser">
+            </PersistentString>
+            <PersistentString
+               value = "appuser.email">
+            </PersistentString>
+            <PersistentString
+               value = "userdefaults">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.(tableView(UITableView, didSelectRowAt : IndexPath) -&gt; ()).(closure #1):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.formattedAddress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EditFavouriteVC.btnSave_Clicked(Any) -&gt; ():EditFavouriteVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ref">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SignUpViewController.btnSignupClicked(Any) -&gt; ():SignUpViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txt_firstname.text?.lowercased()">
+            </PersistentString>
+            <PersistentString
+               value = "txt_firstname.text?.lowercased().trimmingCharacters(in: alphaSet)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.makeSelectedCellActivate(indexpath : IndexPath) -&gt; ():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexpath.row">
+            </PersistentString>
+            <PersistentString
+               value = "isCabSelectedList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.RequestCab(_:):RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cabCollection.visibleCells">
+            </PersistentString>
+            <PersistentString
+               value = "selectedCabName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.getLyftPrice():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.priceLyft">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.collectionView(UICollectionView, didSelectItemAt : IndexPath) -&gt; ():RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isCabSelectedList">
+            </PersistentString>
+            <PersistentString
+               value = "cell.lb_cab.text">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
